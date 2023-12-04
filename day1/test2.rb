@@ -1,3 +1,4 @@
+require "ruby/lsp"
 tot = 0
 numbers = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
 File.open("input", "r") do |f|
